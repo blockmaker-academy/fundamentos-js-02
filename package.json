@@ -1,0 +1,11 @@
+{
+  "name": "fundamentos-js-02",
+  "version": "1.0.0",
+  "description": "Ejercicios de Fundamentos de JavaScript - Bucles, Funciones y Scope",
+  "keywords": [
+    "javascript",
+    "web development"
+  ],
+  "author": "Alex Muñoz <https://github.com/alexmf91>",
+  "license": "MIT"
+}
