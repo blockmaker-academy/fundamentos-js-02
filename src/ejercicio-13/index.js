@@ -15,3 +15,4 @@ console.log(contar())
 console.log(contar())
 
 // No puedo usar directamente la funcion contadorClosures() console.log(contadorClosures()) me da función anonima, necesito declarar una variable
+// probar rama
