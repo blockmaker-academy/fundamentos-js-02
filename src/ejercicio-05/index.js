@@ -3,8 +3,8 @@ let casa = {
     color: 'marrón',
     metros: 360,
     habitaciones: 6,
-    baños: 4
+    baños: 4,
 }
-for (const caracteristica in casa){
+for (const caracteristica in casa) {
     console.log(caracteristica + ':' + casa[caracteristica])
 }
