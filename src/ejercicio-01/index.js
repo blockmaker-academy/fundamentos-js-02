@@ -5,4 +5,4 @@ while (num <= 10) {
     num++
 
 
-} Escribe tu código aquí:
+}
